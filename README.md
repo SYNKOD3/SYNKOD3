@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SYNKOD3&color=006bed" alt="Profile views" /> </p>
-<img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=65fcb3fd&is=65ea3efd&hm=a64dbbb2fe5fb22225dc592612f15a58bc6420af704dca2dd8cec092810950f1&" min-width="410px" max-width="410px" width="410px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=65fcb3fd&is=65ea3efd&hm=a64dbbb2fe5fb22225dc592612f15a58bc6420af704dca2dd8cec092810950f1&" min-width="430px" max-width="430px" width="430px" align="right">
 <h1 align="left">Hi dear, I`m Thiago Rodrigues!</h1>
 
 <h3> Navigating life's source code.</h3>
