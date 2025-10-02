@@ -20,7 +20,7 @@
 ## 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,ps,vscode,figma,wordpress,git,github,discord" /> 
+    <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress,git,github,discord" /> 
   </a>
 </p> 
 
