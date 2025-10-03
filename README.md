@@ -5,8 +5,8 @@
 <h3> Navigating life's source code.</h3>
 
 <p align="left">
-• 🎓 Technology undergraduate at <a href="https://unifan.net.br">UNIFAN</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://www.escoladeprogramacao.metodomeva.com.br">Meva Developers</a>.<BR>
+• 🎓 Bachelor’s Degree in Technology - <a href="https://unifan.net.br">UNIFAN</a>.<BR>
+• 🧩 Enhancing expertise at <a href="https://www.escoladeprogramacao.metodomeva.com.br">Meva Developers</a>.<BR>
 </p>
 
 ## 🚀 My Tech Stack
