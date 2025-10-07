@@ -16,7 +16,7 @@
   </a>
 </p> 
 
-## 🛠️ Development tools
+** 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress,git,github,discord" /> 
