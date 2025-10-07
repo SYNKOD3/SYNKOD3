@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SYNKOD3&color=006bed" alt="Profile views" /> </p>
 
-<img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521782706606192/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif?ex=68e63c98&is=68e4eb18&hm=e4d6c47dbb534cfecd90a8b259f729feda934e6e205bdff8ed16b3592c03b5cc&" width="30px" style="vertical-align: middle;"> <h1 align="left" style="display: inline-block; margin: 0;">Hi dear, I`m Thiago Rodrigues!</h1>
+<h1 align="left"><img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521782706606192/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif?ex=68e63c98&is=68e4eb18&hm=e4d6c47dbb534cfecd90a8b259f729feda934e6e205bdff8ed16b3592c03b5cc&" width="30px" style="vertical-align: middle;">Hi dear, I`m Thiago Rodrigues!</h1>
 
 <img src="https://media.discordapp.net/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=68e63c3d&is=68e4eabd&hm=57734e6704d7e32e947a81d5a8de7a66c8579240397f5ccb5d1e6ae8f10e659e" min-width="450px" max-width="450px" width="450px" align="right">
 
