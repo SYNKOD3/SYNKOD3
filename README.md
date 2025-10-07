@@ -9,7 +9,7 @@
 • 🧩 Enhancing expertise at <a href="https://www.escoladeprogramacao.metodomeva.com.br">Meva Developers</a>.<BR>
 </p>
 
-## 🚀 My Tech Stack
+### 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
