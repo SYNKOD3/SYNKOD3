@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi dear, I`m Thiago Rodrigues! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30px" style="vertical-align: middle;"></h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" min-width="450px" max-width="450px" width="420px" align="right">
 
 <h3> Navigating life's source code.</h3>
 
