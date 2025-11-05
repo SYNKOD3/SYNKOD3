@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SYNKOD3&color=006bed" alt="Profile views" /> </p>
 
-<h1 align="left">Hi dear, I`m Thiago Rodrigues! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" style="vertical-align: middle;"></h1>
+<h1 align="left">Hi dear, I`m Thiago Rodrigues! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30px" style="vertical-align: middle;"></h1>
 
 <img src="https://media.discordapp.net/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=68e63c3d&is=68e4eabd&hm=57734e6704d7e32e947a81d5a8de7a66c8579240397f5ccb5d1e6ae8f10e659e" min-width="450px" max-width="450px" width="450px" align="right">
 
