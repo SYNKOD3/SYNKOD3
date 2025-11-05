@@ -7,7 +7,7 @@
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
     width="450px" 
     align="right" 
-    style="margin-top:-50 px; min-width:450px; max-width:450px;"
+    style="margin-top:-10 px; min-width:450px; max-width:450px;"
   >
 </div>
 
