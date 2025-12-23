@@ -21,7 +21,7 @@
 ### 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,maven" /> 
+    <img src="https://skillicons.dev/icons?i=idea,maven,github,git" /> 
   </a>
 </p> 
 
