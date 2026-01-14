@@ -28,7 +28,7 @@
 ## 📈 Statistics
 <img
   align="left"
-  src="[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SYNKOD3)](https://github.com/SYNKOD3/github-readme-stats)"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SYNKOD3)"
   alt="Github stats"
 />
 
