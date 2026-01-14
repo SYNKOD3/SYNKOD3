@@ -28,7 +28,7 @@
 ## 📈 Statistics
 <img
   align="left"
-  src="https://stats.hyo.dev/api/github-stats-advanced?login=SYNKOD3" width="600"
+  src="https://stats.hyo.dev/api/github-stats-advanced?login=SYNKOD3" width="200"
   alt="Github stats"
 />
 
