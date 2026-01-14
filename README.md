@@ -28,7 +28,7 @@
 ## 📈 Statistics
 <img
   align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNKOD3&theme=radical&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNKOD3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
 
