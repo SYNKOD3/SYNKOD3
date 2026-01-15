@@ -32,7 +32,7 @@
   alt="Github stats"
 />
 
-<br>
+<br><br>
 
 <p align="right">
   <a href="https://www.linkedin.com/in/synkode/" title="LinkedIn">
