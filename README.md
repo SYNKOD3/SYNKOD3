@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi dear, I`m Thiago Rodrigues! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30px" style="vertical-align: middle;"></h1>
 
-<img src="https://media.discordapp.net/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=696817fd&is=6966c67d&hm=446caad827dbcf2a19aad038816b08e97580e3d38abf809130430cd42a6a697c&=" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1zdDk5MHp2Z3dkMTF5aGY0ZXB1OHI2MWxlaGM1ZjVqNDN0Y2diMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" min-width="450px" max-width="450px" width="450px" align="right">
 
 <h3> Navigating life's source code.</h3>
 
