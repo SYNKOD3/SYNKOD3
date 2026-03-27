@@ -9,6 +9,7 @@
 <p align="left">
 • 🎓 Bachelor’s Degree in Technology - <a href="https://unifan.net.br">UNIFAN</a>.<BR>
 • 🧩 Enhancing expertise at <a href="https://www.escoladeprogramacao.metodomeva.com.br">Meva Developers</a>.<BR>
+• 🚀 Transitioning from Backend to Fullstack
 </p>
 
 ### 🚀 My Tech Stack
