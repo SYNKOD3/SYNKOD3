@@ -14,14 +14,14 @@
 ### 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq,angular,ts" />
   </a>
 </p> 
 
 ### 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,maven,postman,github,git,docker" /> 
+    <img src="https://skillicons.dev/icons?i=idea,maven,vscode,postman,github,git,docker" /> 
   </a>
 </p> 
 
