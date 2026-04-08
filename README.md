@@ -15,7 +15,7 @@
 ### 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq,angular,ts" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,angular,ts" />
   </a>
 </p> 
 
