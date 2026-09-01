@@ -22,7 +22,7 @@
 ### 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,maven,vscode,postman,github,git,docker,codex" /> 
+    <img src="https://skillicons.dev/icons?i=idea,maven,vscode,postman,github,git,docker" /> 
   </a>
 </p> 
 
